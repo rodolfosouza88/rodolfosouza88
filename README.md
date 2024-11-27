@@ -22,10 +22,11 @@
 ---
 
 ### 🌟 Meus Projetos
-| Nome do Projeto | Descrição | Tecnologias | Link |
-|-----------------|-----------|-------------|------|
-| **[Sistema de Login BET](https://github.com/rodolfosouza88/projeto-bet)** | Plataforma de cadastro e login de usuários. | React.js, Node.js | [Acesse](https://demo-login-bet.netlify.app) |
-| **[Listagem de Heróis](https://github.com/rodolfosouza88/listagem-herois)** | Aplicação com busca e modal de detalhes usando API RESTful. | React.js, CSS Modules | - |
+| Nome do Projeto      | Descrição                                           | Tecnologias                  | Link                                                      |
+|-----------------------|---------------------------------------------------|------------------------------|----------------------------------------------------------|
+| **[Clima e Música](https://github.com/rodolfosouza88/Clima-musica-App)**   | Recomenda músicas com base no clima da sua cidade. | React.js, API OpenWeather e Deezer | [Acesse](https://app-climaemusica.netlify.app/)          |
+| **[Churrascômetro](https://github.com/rodolfosouza88/churrascometro)**    | Calcula a quantidade ideal de carne e bebidas para churrascos. | HTML, CSS, JavaScript | [Acesse](https://churrascometroproject.netlify.app/)     |
+| **[Pokédex](https://github.com/rodolfosouza88/pokedex)**                  | Exibe detalhes de Pokémon com busca e visual amigável. | React.js, API RESTful | [Acesse](https://pokedex-sepia-nu.vercel.app/)          |
 
 ---
 
@@ -37,3 +38,4 @@
 ---
 
 ⭐ **_"Soluções simples para desafios complexos"_**
+
