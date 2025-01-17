@@ -7,8 +7,8 @@
 
 ### 🚀 Sobre mim
 - 💡 **Busco transformar ideias em soluções web criativas e eficientes.**
-- 🎓 Pós-graduando em Desenvolvimento Web Full Stack pela XP Educação.  
-- 📚 Atualmente aprimorando habilidades em **React.js** e **Node.js**.  
+- 🎓 Pós-graduando em Arquitetura de Software e Soluções com Inteligência Artificial pela XP Educação.  
+- 📚 Atualmente aprimorando habilidades em **React.Native** e **Angular**.  
 
 ---
 
