@@ -36,7 +36,7 @@
 ## 📫 Vamos nos conectar?  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodolfosouza88/)  
-- 🌐 [Portfólio](https://rodolfosouza-myportfolio.netlify.app/)  
+- 🌐 [Portfólio](https://portflio-rodolfosouza.netlify.app/)  
 - 📧 rodolfovasconcellos88@gmail.com  
 
 ---
