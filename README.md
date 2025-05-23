@@ -24,9 +24,10 @@
 ### 🌟 Meus Projetos
 | Nome do Projeto      | Descrição                                           | Tecnologias                  | Link                                                      |
 |-----------------------|---------------------------------------------------|------------------------------|----------------------------------------------------------|
+| ** [Comparativo de preços](https://github.com/rodolfosouza88/Monitoramento-de-Pre-os) | monitoramento de preços de produtos | Recharts (para gráficos) ,Fetch API, CSS-in-JS (estilos inline), API pública: Fake Store API | [Acesse] ()
 | **[Clima e Música](https://github.com/rodolfosouza88/Clima-musica-App)**   | Recomenda músicas com base no clima da sua cidade. | React.js, API OpenWeather e Deezer | [Acesse](https://app-climaemusica.netlify.app/)          |
 | **[Churrascômetro](https://github.com/rodolfosouza88/churrascometro)**    | Calcula a quantidade ideal de carne e bebidas para churrascos. | HTML, CSS, JavaScript | [Acesse](https://churrascometroproject.netlify.app/)     |
-| **[Pokédex](https://github.com/rodolfosouza88/pokedex)**                  | Exibe detalhes de Pokémon com busca e visual amigável. | React.js, API RESTful | [Acesse](https://pokedex-sepia-nu.vercel.app/)          |
+| **[Meu Portfólio](https://github.com/rodolfosouza88/portfolio-rodolfosouza)** | Exibe detalhes de Pokémon com busca e visual amigável. | React.js, API RESTful | [Acesse](https://rodolfosouza-myportfolio.netlify.app/)          |
 
 ---
 
