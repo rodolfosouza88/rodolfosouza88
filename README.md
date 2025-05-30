@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&height=200&section=header&text=Rodolfo%20Vasconcellos&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&height=200&section=header&text=Rodolfo%20Vasconcellos%20%7C%20Software%20Engineer&fontSize=40&fontColor=FFFFFF" />
 </div>
 
 # 👋 Olá! Sou Rodolfo Vasconcellos de Souza
@@ -11,7 +11,8 @@
 
 ## 🚀 Sobre mim
 
-**Desenvolvedor Front-End** e **Scrum Master** com atuação na **TT&T Soluções em Informática** como **Líder do time de Front-End**. Apaixonado por tecnologias modernas, foco em **usabilidade**, **performance** e **cultura ágil**.
+**Desenvolvedor Front-End** e **Scrum Master** na **TT&T Soluções em Informática**.  
+Líder do time de **Front-End** com foco em **usabilidade**, **performance** e **cultura ágil**.
 
 ---
 
@@ -50,23 +51,21 @@
 
 ## 🎓 Formação Acadêmica
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_xp.png" alt="XP Educação" width="120"/>
-</div>
+![XP Educação](https://img.shields.io/badge/XP%20Educação-Arquitetura%20de%20Software%20e%20IA-blue)
 
 **Pós-graduação**  
 Arquitetura de Software e Soluções com I.A – XP Educação (em andamento – jan/2026)
 
 ---
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Senac_logo.png" alt="Senac" width="150"/>
-</div>
+![Senac](https://img.shields.io/badge/Senac-ADS-orange)
 
 **Graduação**  
 Análise e Desenvolvimento de Sistemas – SENAC (2023)
 
 ---
+
+![EBAC](https://img.shields.io/badge/EBAC-Engenharia%20Front%20End-yellow)
 
 **Engenharia Front-End** – EBAC (em andamento)
 
@@ -113,4 +112,3 @@ Análise e Desenvolvimento de Sistemas – SENAC (2023)
 ✉️ rodolfovasconcellos88@gmail.com
 
 ---
-
