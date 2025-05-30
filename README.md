@@ -1,45 +1,76 @@
-# 👋 Olá, eu sou Rodolfo Vasconcellos de Souza!
+# 👋 Olá! Eu sou Rodolfo Vasconcellos de Souza
 
-## 🎯 Desenvolvedor Web Full Stack | 💻 Apaixonado por Tecnologia & Inovação  
-📍 Franca – São Paulo | 🌎 Aberto a oportunidades remotas
-
----
-
-## 🚀 Sobre mim  
-💡 Transformo ideias em soluções web criativas, eficientes e funcionais.  
-🎓 Pós-graduando em Arquitetura de Software e Soluções com Inteligência Artificial (XP Educação).  
-📚 Em constante evolução com **React Native** e **Angular**.
+📍 Franca – SP | 📞 (16) 99434-6006 | ✉️ rodolfovasconcellos88@gmail.com  
+🔗 [LinkedIn](#) | 💻 [GitHub](https://github.com/rodolfosouza88/) | 🌐 [Portfólio](https://rodolfosouza-myportfolio.netlify.app/)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🚀 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+Sou um **Desenvolvedor Front-End** com foco em criar interfaces intuitivas, performáticas e com impacto positivo para os usuários. Além disso, lidero equipes como **Scrum Master**, com foco na entrega de valor, qualidade e melhoria contínua.
 
----
+💡 Atualmente sou **Líder de Front-End e Scrum Master** na TT&T Soluções em Informática, impulsionando o crescimento técnico e pessoal do meu time.
 
-## 🌟 Projetos em Destaque
-
-| Projeto                                             | Descrição                                                         | Tecnologias                    | Demo / Repositório                                         |
-|----------------------------------------------------|-------------------------------------------------------------------|-------------------------------|------------------------------------------------------------|
-| **[Monitoramento de Preços](https://github.com/rodolfosouza88/Monitoramento-de-Pre-os)** | App para acompanhamento e comparação de preços de produtos.       | React.js, Vercel              | [App Online](https://monitoramento-de-pre-os.vercel.app/)    |
-| **[Clima e Música](https://github.com/rodolfosouza88/Clima-musica-App)**     | Recomenda playlists baseadas no clima da sua cidade.              | React.js, OpenWeather API, Deezer API | [App Online](https://app-climaemusica.netlify.app/)          |
-| **[Churrascômetro](https://github.com/rodolfosouza88/churrascometro)**      | Calcula a quantidade ideal de carne e bebidas para churrascos.    | HTML, CSS, JavaScript          | [App Online](https://churrascometroproject.netlify.app/)     |
-| **[Lista de Mercado](https://github.com/rodolfosouza88/lista-de-mercado)**   | Aplicativo para gerenciamento prático de listas de compras.       | React.js, LocalStorage         | [Repositório](https://github.com/rodolfosouza88/lista-de-mercado) |
+Tenho paixão por **tecnologias modernas**, por compartilhar conhecimento e transformar desafios em soluções práticas.
 
 ---
 
-## 📫 Vamos nos conectar?  
+## 🛠️ Minha stack em ação
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rodolfosouza88/)  
-- 🌐 [Portfólio](https://portflio-rodolfosouza.netlify.app/)  
-- 📧 rodolfovasconcellos88@gmail.com  
+```javascript
+const rodolfo = {
+  linguagens: ["JavaScript", "HTML", "CSS", "UML"],
+  frameworks: ["React", "Vue", "Angular", "Ionic"],
+  cloud: ["AWS"],
+  metodologias: ["Scrum", "Kanban"],
+  ferramentas: ["Git", "GitHub", "Figma", "Trello"],
+  softSkills: ["Liderança", "Empatia", "Pensamento Crítico", "Colaboração"]
+}
+👆 Sempre evoluindo, aprendendo e aplicando!
 
----
+💼 Experiência Profissional
+TT&T Soluções em Informática Ltda | Remoto – São Paulo
+Líder de Front-End & Scrum Master | Desenvolvedor Front-End
+📅 dez/2024 – atual
 
-⭐ **_"Soluções simples para desafios complexos"_**
+✅ Liderança do time de Front-End, estimulando uma cultura de excelência técnica e colaboração.
+✅ Condução de rituais ágeis: daily meetings, plannings, reviews.
+✅ Desenvolvimento de aplicações web e mobile com foco em usabilidade e responsividade.
+✅ Atuação em modelagem UML, documentação técnica e homologação.
+✅ Criação de trilhas de aprendizado e PDIs para evolução da equipe.
+
+🎓 Formação Acadêmica
+<table> <tr> <td> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_xp.png" alt="XP Educação" width="100"/> </td> <td> <strong>Pós-graduação em Arquitetura de Software e Soluções com I.A</strong> <br>XP Educação (em andamento – jan/2026) </td> </tr> </table> <table> <tr> <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Senac_logo.png" alt="Senac" width="100"/> </td> <td> <strong>Graduação em Análise e Desenvolvimento de Sistemas</strong> <br>SENAC (2023) </td> </tr> </table>
+🎓 Engenharia Front-End – EBAC
+
+🧩 Competências Técnicas
+✅ Linguagens & Frameworks: JavaScript, HTML, CSS, React.js, Vue.js, Angular, UML, DevOps, REST API
+✅ Ferramentas: Git, GitHub, Trello, AWS, Figma, Ionic
+✅ Metodologias: Scrum, Kanban
+✅ Design Responsivo e boas práticas de desenvolvimento
+
+🧠 Soft Skills
+Liderança estratégica
+
+Pensamento crítico e adaptabilidade
+
+Comunicação empática
+
+Proatividade e colaboração
+
+🌍 Idiomas
+🇺🇸 Inglês – Avançado
+
+✨ O que me inspira?
+🔹 Desenvolver soluções que impactam positivamente a vida das pessoas.
+🔹 Liderar equipes que transformam desafios em oportunidades.
+🔹 Promover o aprendizado contínuo e a cultura de compartilhamento.
+🔹 Colaborar em projetos com propósito e inovação.
+
+🤝 Vamos nos conectar?
+🔗 LinkedIn
+💻 GitHub
+🌐 Portfólio
+📞 WhatsApp: (16) 99434-6006
+✉️ rodolfovasconcellos88@gmail.com
 
