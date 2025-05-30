@@ -1,4 +1,8 @@
-# 👋 Olá! Eu sou Rodolfo Vasconcellos de Souza
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB&height=200&section=header&text=Rodolfo%20Vasconcellos&fontSize=40&fontColor=FFFFFF" />
+</div>
+
+# 👋 Olá! Sou Rodolfo Vasconcellos de Souza
 
 📍 Franca – SP | 📞 (16) 99434-6006 | ✉️ rodolfovasconcellos88@gmail.com  
 🔗 [LinkedIn](#) | 💻 [GitHub](https://github.com/rodolfosouza88/) | 🌐 [Portfólio](https://rodolfosouza-myportfolio.netlify.app/)
@@ -7,70 +11,106 @@
 
 ## 🚀 Sobre mim
 
-Sou um **Desenvolvedor Front-End** com foco em criar interfaces intuitivas, performáticas e com impacto positivo para os usuários. Além disso, lidero equipes como **Scrum Master**, com foco na entrega de valor, qualidade e melhoria contínua.
-
-💡 Atualmente sou **Líder de Front-End e Scrum Master** na TT&T Soluções em Informática, impulsionando o crescimento técnico e pessoal do meu time.
-
-Tenho paixão por **tecnologias modernas**, por compartilhar conhecimento e transformar desafios em soluções práticas.
+**Desenvolvedor Front-End** e **Scrum Master** com atuação na **TT&T Soluções em Informática** como **Líder do time de Front-End**. Apaixonado por tecnologias modernas, foco em **usabilidade**, **performance** e **cultura ágil**.
 
 ---
 
-## 🛠️ Minha stack em ação
+## 🛠️ Stack e Tecnologias
 
-```javascript
-const rodolfo = {
-  linguagens: ["JavaScript", "HTML", "CSS", "UML"],
-  frameworks: ["React", "Vue", "Angular", "Ionic"],
-  cloud: ["AWS"],
-  metodologias: ["Scrum", "Kanban"],
-  ferramentas: ["Git", "GitHub", "Figma", "Trello"],
-  softSkills: ["Liderança", "Empatia", "Pensamento Crítico", "Colaboração"]
-}
-👆 Sempre evoluindo, aprendendo e aplicando!
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=fff)
+![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=flat&logo=azuredevops&logoColor=fff)
 
-💼 Experiência Profissional
-TT&T Soluções em Informática Ltda | Remoto – São Paulo
-Líder de Front-End & Scrum Master | Desenvolvedor Front-End
+---
+
+## 💼 Experiência Profissional
+
+**TT&T Soluções em Informática Ltda**  
+📍 Remoto – São Paulo  
+**Líder de Front-End & Scrum Master | Desenvolvedor Front-End**  
 📅 dez/2024 – atual
 
-✅ Liderança do time de Front-End, estimulando uma cultura de excelência técnica e colaboração.
-✅ Condução de rituais ágeis: daily meetings, plannings, reviews.
-✅ Desenvolvimento de aplicações web e mobile com foco em usabilidade e responsividade.
-✅ Atuação em modelagem UML, documentação técnica e homologação.
-✅ Criação de trilhas de aprendizado e PDIs para evolução da equipe.
+- Liderança do time de Front-End
+- Condução de cerimônias ágeis (*daily*, *planning*, *review*)
+- Desenvolvimento de aplicações web e mobile com foco em usabilidade e performance
+- Análise de requisitos, testes, homologação e documentação técnica
+- Criação de trilhas de aprendizado e PDIs
 
-🎓 Formação Acadêmica
-<table> <tr> <td> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_xp.png" alt="XP Educação" width="100"/> </td> <td> <strong>Pós-graduação em Arquitetura de Software e Soluções com I.A</strong> <br>XP Educação (em andamento – jan/2026) </td> </tr> </table> <table> <tr> <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Senac_logo.png" alt="Senac" width="100"/> </td> <td> <strong>Graduação em Análise e Desenvolvimento de Sistemas</strong> <br>SENAC (2023) </td> </tr> </table>
-🎓 Engenharia Front-End – EBAC
+---
 
-🧩 Competências Técnicas
-✅ Linguagens & Frameworks: JavaScript, HTML, CSS, React.js, Vue.js, Angular, UML, DevOps, REST API
-✅ Ferramentas: Git, GitHub, Trello, AWS, Figma, Ionic
-✅ Metodologias: Scrum, Kanban
-✅ Design Responsivo e boas práticas de desenvolvimento
+## 🎓 Formação Acadêmica
 
-🧠 Soft Skills
-Liderança estratégica
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_xp.png" alt="XP Educação" width="120"/>
+</div>
 
-Pensamento crítico e adaptabilidade
+**Pós-graduação**  
+Arquitetura de Software e Soluções com I.A – XP Educação (em andamento – jan/2026)
 
-Comunicação empática
+---
 
-Proatividade e colaboração
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Senac_logo.png" alt="Senac" width="150"/>
+</div>
 
-🌍 Idiomas
+**Graduação**  
+Análise e Desenvolvimento de Sistemas – SENAC (2023)
+
+---
+
+**Engenharia Front-End** – EBAC (em andamento)
+
+---
+
+## 🧩 Competências Técnicas
+
+✅ Linguagens & Frameworks: JavaScript, HTML, CSS, React.js, Vue.js, Angular, UML, DevOps, REST API  
+✅ Ferramentas: Git, GitHub, Trello, AWS, Figma, Ionic  
+✅ Metodologias: Scrum, Kanban  
+✅ Design Responsivo e Boas Práticas de Desenvolvimento
+
+---
+
+## 🌍 Idiomas
+
 🇺🇸 Inglês – Avançado
 
-✨ O que me inspira?
-🔹 Desenvolver soluções que impactam positivamente a vida das pessoas.
-🔹 Liderar equipes que transformam desafios em oportunidades.
-🔹 Promover o aprendizado contínuo e a cultura de compartilhamento.
-🔹 Colaborar em projetos com propósito e inovação.
+---
 
-🤝 Vamos nos conectar?
-🔗 LinkedIn
-💻 GitHub
-🌐 Portfólio
-📞 WhatsApp: (16) 99434-6006
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfosouza88&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfosouza88&layout=compact&theme=github_dark" />
+</div>
+
+---
+
+## 🖥️ Gráfico de Contribuição
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodolfosouza88&theme=github-compact" />
+</div>
+
+---
+
+## 🤝 Contato
+
+🔗 [LinkedIn](#)  
+💻 [GitHub](https://github.com/rodolfosouza88/)  
+🌐 [Portfólio](https://rodolfosouza-myportfolio.netlify.app/)  
+📞 WhatsApp: (16) 99434-6006  
 ✉️ rodolfovasconcellos88@gmail.com
+
+---
 
